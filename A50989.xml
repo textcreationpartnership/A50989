@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consultissimus clarissimisque viris D. Jacobo Flaminio antiquissimæ civitatis Edinburgi consuli honoratissimo. D.D. Thomæ Kennedo, Thomæ Robertsono, Magno Princio, Carolo Moravio prætoribus, ...theses hasce suas philosophicas Athenæi Edinburgensis, á Rege Jacobo sexto sundati, alumni hác vice, ductu, &amp; præsidio Gilberti Macmordaci lauream meriti, ... Julij 1682 in auditorio publico prædicti Athenæi.</title>
+            <title>Theses. 1682.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50989</idno>
+            <idno type="STC">Wing M223</idno>
+            <idno type="STC">ESTC R220203</idno>
+            <idno type="EEBO-CITATION">99831626</idno>
+            <idno type="PROQUEST">99831626</idno>
+            <idno type="VID">36091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Consultissimus clarissimisque viris D. Jacobo Flaminio antiquissimæ civitatis Edinburgi consuli honoratissimo. D.D. Thomæ Kennedo, Thomæ Robertsono, Magno Princio, Carolo Moravio prætoribus, ...theses hasce suas philosophicas Athenæi Edinburgensis, á Rege Jacobo sexto sundati, alumni hác vice, ductu, &amp; præsidio Gilberti Macmordaci lauream meriti, ... Julij 1682 in auditorio publico prædicti Athenæi.</title>
+                  <title>Theses. 1682.</title>
+                  <author>Macmordaci, Gilbert.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>excudebat hares Andrea Andersoni, typographus regius,</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>anno Dom. M.DCLXXXII. [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a list of graduates in four columns beneath the title. Theses listed in two columns beneath the graduates names.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:36091:1" rendition="simple:additions"/>
+            <head>Conſultiſsimis Clariſsimiſque viris D. JACOBO FLAMINIO, Antiquiſſimae Civitatis <hi>Edinburgi</hi> Conſuli Honoratiſſimo, D.D.<hi>Thomae Kennedo, Thomae Robertſono, Magno Princio, Carolo Moravio</hi> praetoribus, prudentiâ &amp; aequitate celeberrimis: D. <hi>Archibaldus Hami'tono</hi> AEdili vigilantiſſimo &amp; aequiſſimo, D. <hi>Iohanni Govano</hi> Quaeſtori integerrimo, Caeteriſque Ampliſſimae Civitatis Senatoribus, Muſarum noſtrarum Patronis, &amp; Mecaenatibus noſtris aeternùm ſuſpiciendis,</head>
+            <head type="sub">Theſes haſce ſuas Philoſophicas Athenaei <hi>Edinburgenſis,</hi> à Rege JACO BO Sexto fundati, Alumni, hác vice, ductu, &amp; Praeſidio <hi>Gilberti Macmordaci</hi> Lauream meriti, in perpetuae gratitudinis teſſeram dicant, conſecrantque.</head>
+            <p>quas propugnabunt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> die <hi>Julij</hi> 1682. in Auditorio publico praedicti Athenaei.</p>
+            <list>
+               <item>Alexander Guthrie.</item>
+               <item>Alexander Pollock.</item>
+               <item>Alexander Weir.</item>
+               <item>Andreas Roſs.</item>
+               <item>Archibaldus Hamilton.</item>
+               <item>Carolus Chalmers.</item>
+               <item>Carolus Maitland.</item>
+               <item>David Brodie.</item>
+               <item>David Harvie</item>
+               <item>David Muſhet.</item>
+               <item>Franciſcus Cunningham.</item>
+               <item>Gabriel Aliſon.</item>
+               <item>Gualterus Bell.</item>
+               <item>Gualterus Pringle.</item>
+               <item>Gualterus Scot.</item>
+               <item>Gulielmus Colvil.</item>
+               <item>Gulielmus Cleivland.</item>
+               <item>Georgius Dudgeon.</item>
+               <item>Gulielmus Hardie.</item>
+               <item>Gulielmus Law.</item>
+               <item>Gulielmus Scot.</item>
+               <item>Gulielmus Sheils.</item>
+               <item>Georgius Waddel.</item>
+               <item>Gulielmus Walace.</item>
+               <item>Jacobus Baillie.</item>
+               <item>Jacobus Chalmers.</item>
+               <item>Jacobus Fiſher.</item>
+               <item>Jacobus Inglis, <hi>maj.</hi>
+               </item>
+               <item>Jacobus Inglis, <hi>min.</hi>
+               </item>
+               <item>Jacobus Kelly.</item>
+               <item>Jacobus Kincaid.</item>
+               <item>Jacobus Oliphant.</item>
+               <item>IOHANNES CARMICHAEL.</item>
+               <item>Iohannes Chriſtie.</item>
+               <item>Iohannes Duff.</item>
+               <item>Iohannes Flint.</item>
+               <item>Iohannes Hay.</item>
+               <item>Iohannes Hunter.</item>
+               <item>Iohannes Miller.</item>
+               <item>Iohannes Mouat.</item>
+               <item>Iohannes Murray.</item>
+               <item>IOHANNES PRINGLE.</item>
+               <item>Johannes Watſon</item>
+               <item>Mattheus Wilſon.</item>
+               <item>Patricius Cook.</item>
+               <item>Robertus Chalmers,</item>
+               <item>Robertus Colvil.</item>
+               <item>Robertus Muirhead.</item>
+               <item>Robertus Nicolſon.</item>
+               <item>Robertus Scot.</item>
+               <item>Thomas Kircadie.</item>
+               <item>Thomas Swintoun.</item>
+            </list>
+            <list>
+               <item>
+                  <seg rend="decorInit">C</seg>Um Logica ſit Ars bene utendi ratione in rerum cognitione acquirendâ tam ad ſui ipſius quam aliorum inſtitutionem; ſi eam rite ſequamur, ni<g ref="char:EOLhyphen"/>hil ut quam tanquam verum admittemus, niſi quod certò &amp; evidenter verum eſſe cognitum ſuerit: adec<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omnem non ſolum praecipitantiam, ſed etiam anticipationem in judicando vitabimus, nihil<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> amplius con<g ref="char:EOLhyphen"/>cluſione complectemur quam quod tam clarè at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> diſtinctè noſtrae ra<g ref="char:EOLhyphen"/>tioni pateat, ut nullo modo poſſit a nobis in dublum revocari: ſingu<g ref="char:EOLhyphen"/>las difficultates in tot partes dividemus, quot expedit ad illas commodi<g ref="char:EOLhyphen"/>us reſolvendas; incipiendo a rebus ſimpliciſſimis, &amp; cognitu facillimis, ut paulatim ad difficiliorum cognitionem aſcendamus; &amp; in mediis quaerendis, ac difficulcatum partibus percurrendis, tam perfectè ſin<g ref="char:EOLhyphen"/>gula enumerando, ut nihil omitti certi ſimus, quò claram, diſtinctam, bene ordinatam, &amp; ſufficientem, aut adaquatam (quantum ſieri poreſt) cognitionem acquiramus.</item>
+               <item>II. Idea five perceptio cujus nos ſumus immediate conſcil, falſo a quibuſdam adhibetur ad cum tantum conciplendi modum deſignandum, quem mens humana in ſe producit ex occaſione imaginis in cerebro de<g ref="char:EOLhyphen"/>pictae, qui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> idcirco imaginatio appellatur: complectitur enim non ſolummodò imaginationem, ſed eti<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ſenſationem &amp; intellectionem puram. Cum itaque omnis ideae immediatè conſcij ſimus, non autem imagi<g ref="char:EOLhyphen"/>nis in cerebro depictae, vel cujuſvis operationis ſenſitivae, niſi mediante intellectus perceptione; ſequitur ideam rel cujuſvis diverſam eſſe, &amp; omnino diſtinctam ab imagine ejuſdem rei depictâ in cerebro, &amp; ab omnialiâ operatione ſenſitivâ, ſeu moru organis ſenſuum ab objecto ſenſibill impreſſo, &amp; inde ad cerebrum delato. Graviſſime itaque errat <hi>Hobeſius</hi> qui ſtatuit omnem ratiocinationem pendere a verbis, verba ab ima<g ref="char:EOLhyphen"/>ginatione, imaginationem verò a motu organorum corporeorum: ac proinde animam noſtram ſeu mentem nihil aliud eſſe, niſi motum quarundam partium corporis organici.</item>
+               <item>III. Quod per ideam percipitur, dicitur ejus objectum, &amp; in eâ repraeſentativè contineri, vel tanquam res, vel modus, vel res modificats: unde dum ideas noſtras accuratius conſideramus, videmus quidem illas qua<g ref="char:EOLhyphen"/>tenus ſunt quidam modi cogitandl, non multum a ſe mutuo differre; ſed quatenus una unam rem, alia allam repraeſentat eſſe valde diverſas; &amp; quo plus perfectionis objectivae in ſe continent, cò perfectiorem ipſarum cauſam ſeu objectum eſſe debere: quam inepti itaque ſunt qui negant nos ullam Dei ideam habere; de illis enim tantum diſputamus &amp; attributa demonſtramus quorum ideas habemus; de DEO autem demon<g ref="char:EOLhyphen"/>ſtratur exiſtentia neceſſaria &amp; plurima alia attributa: &amp; horum nihil ex hoc ſolo ſono DEUS deduci poteſt, ſed tantum ab idea Del quae nobis ineſt, q<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mque huic voci conjunximus.</item>
+               <item>IV. Modi cogitandi, quos univerſalia vocamus, ſiunt ex eo tantum, quòd I unâ &amp; eâdem ideâ utamur ad omnia individua quae inter ſe ſimilla ſunt cogitanda; unde unum &amp; idem nomen omnibus rebus per ideam iſtam repraeſentatis imponimus, quod nomen eſt <hi>univerſale</hi> &amp; apud Grammaticos <hi>appellativum</hi> vocatur, non enim res, ſed ſolae ideae &amp; voces ſunt univerſales in repraeſentando &amp; ſignificando, &amp; ſecundum varias re<g ref="char:EOLhyphen"/>praeſentationes &amp; ſignificationes inter ſe diſtinguuntur, unde quinque univerſalia vulgò numerantur, genus, ſpecies, differentia, proprium, &amp; accidens.</item>
+               <item>V. In enunciationibus negativis five univerſalibus, five particularibus ſemper diſtribuitur praedicatum, non autem in affirmativis; ſed in omnibus univerſalibus tam affirmativis quam negativis diſtribuitur ſubjectum, alioquin falſae crunt; ſi enim ſit vel unum ex inferioribus ſubjecti, cui praedicatum non conveniat in univer<g ref="char:EOLhyphen"/>ſali affirmativâ: aut cui praedicatum non diſlentiat in negativâ, non poteſt iſta propoſitio eſſe vera.</item>
+               <item>VI. Mens naturaliter fertur a paucis ad multa, a ſimplicibus ad compoſita, &amp; a particularium notitiâ, ad univerſalium cognitionem: imo ex uno ſingulari, licebit univerſale colligere, quoties icilicet ſingulare illud experimur in nobis ipſis, &amp; de connexione neceſſariâ inter ſubjectum &amp; praedicatum certi <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umus: ex hâc enim (cogito ergo ſum) inſero univerſalem, (omne cogitaos exiſtit) quoniam univerſalls haec propoſitio non eſt mihi tam nota, quim ſingularis de me ipſo formata: unde, quia unum aliquod individuum non eſt omne, ſeu non exhaurit omnem realitarem; ſed ſimllia dari poſſunt, quam de uno ſcientiam habco ad alia extendere poſſum, at non ita amplam ſed magis reſtrictam.</item>
+               <item>VII. De nullâ re poſſumus eſſe certi quamdiu neſcimus nos exiſtere, ergo hoc enunciatum (Ego ſum) debet eſſe per ſe notum &amp; primum cognitum non quatenus conſtamus corpore, ſed quatenus cogitamus, &amp; quodcunque nobis aeque evidens eſt, quodque aeque clarè &amp; diſtinctè ac hoc primum cognitum percipimus, omneque, quod cum hoc principio ita convenit, &amp; ab hoc principio ita depender, ur ſi de to dubitare ve<g ref="char:EOLhyphen"/>limus, etiam de hoc principlo eſſet dubitandum, proveriſſimo habendnm eſt.</item>
+               <item>VIII. Prout verl &amp; boni cognitio clara eſt aut obſcura, vel ignorantiâ obnubilata, ſic etiam cogitationes quibus de illis judicamus, &amp; in illa ferimur, ſunt aut ſponte determinatae, aut indifferences, &amp; in neutram partem propendentes, unde libertas modo ſpontanea, modo indifferens dicitur: peccatum enim non dare<g ref="char:EOLhyphen"/>tur niſi indifferentia eſſet vel ſuiſſer: nam qui culpanda fecir, debuit allter ſe gerere, quam geſſit; ergo ſaltem aliquando, aliquo reſpectu, &amp; in aliquo ſtatu indifferens ſuit. Talis autem indifferentia quae eſt ex ignorantiâ vel obſcuritate eſt infimus libertatis gradus: ſi enim tam vivô &amp; efficaci aequitatis ſenſu homines imbuti eſſent, ut ab inſito virtutis principio ſemper agerent, nec ab honeſtatis viâ deflecterent, veram &amp; he<g ref="char:EOLhyphen"/>roicam participarent libertatem.</item>
+               <item>IX. Ad metriopatheiam aſſequendam optimè conſert virtus, quâ mens humana impreſſionibus animalibus, five paſſionibus corporeis ita dominatur, ut in ſingulis actionibus illud facile proſequatur quod abſolute &amp; ſimpliciter optimum eſt: Certum enim eſt, omnes tumultus, qui aliunde veniunt, nullam vim habere no<g ref="char:EOLhyphen"/>cendi animae noſtrae, modo ſat is ſemper habeat apud ſe unde contenta ſit, ſed potius augere ejus laetitiam, eo quod obſervans ſe ab illis laedi non poſſe, id ei ad ſuam perfectionem cognoſcendam inſerviat: ut autem ani<g ref="char:EOLhyphen"/>ma noſtra ita contenta ſit, nihil aliud incumbit, quam virtutem ſectari: quicunque coim (ut optimè aſſerit <hi>Carteſius</hi>) ita vixit, ut conſcientia ſua exprobare ei nequear, ipſum unquam neglexiſſe ea facere quae melio<g ref="char:EOLhyphen"/>ra eſſe judicaverit, inde percipit ſatisſactionem, quae tam potens eſt, ad cum ſoclicem reddendum, ut vio<g ref="char:EOLhyphen"/>lentiores motus affectuum nunquam ſat habeant virium ad turbandam tranguillitatem animae ipſius.</item>
+               <item>X. Una eſt cujuſque ſubſtantiae praecipua proprietas, quae ipſius naturam eſſentiamque conſtituit, &amp; ad quam omnes aliae referantur: extenſio in longum, latum &amp; profundum ſubſtantiae corporeae naturam, &amp; cogitatio, ſubſtantiae cogitantis naturam conſtituit: ſi ieaque attributa omnia cogitationis ab attributis exten<g ref="char:EOLhyphen"/>ſionis accurate diſtinguamus, habebimus claras &amp; diſtinctas ideas, unam ſubſtantiae cogitantis, &amp; aliam ſub<g ref="char:EOLhyphen"/>ſtantiae corporeae, &amp; has percipiemus a ſe mutuo realiter eſſe diſtinctas, quod unam abſque alterâ clarè &amp; diſtinctè intelligere poſſumus.</item>
+               <item>XI. Cum itaque natura materiae, five corporis in univerſum ſpectati conſiſtat in co, quod ſit res exten<g ref="char:EOLhyphen"/>ſa in longum, latum &amp; profundum; ſequitur in re non differre ſpatium, five locum internum &amp; ſubſtanti<g ref="char:EOLhyphen"/>am corpoream in co contentam, ſed tantum in modo quo a nobis còncipi ſolent, eadem enim extenſio con<g ref="char:EOLhyphen"/>ſtituit ſpatium &amp; corpus. Scquitur etiam candem ſpecie eſſe terrae coellque materiam; ut &amp; ſpatium omni corpore vacuum eſſe plane fictiuum. Sequitur item corpora aliter quam per materiae ſubtilis in ipſorum po<g ref="char:EOLhyphen"/>ros ingreſſum &amp; egreſſum rarefieri &amp; condenſari non poſſe: Ita ſcllicet ut rara corpora illa ſint, inter quo<g ref="char:EOLhyphen"/>rum partes multa intervalla exiſtunt, corporibus allis ropleta: &amp; denſiora reddantur, quod ipſorum par<g ref="char:EOLhyphen"/>tes ad invicem accedentes, intervalla iſta imminuant, vel plane tollant: quod ultimum ſi quando contin<g ref="char:EOLhyphen"/>gat, tunc corpus tam denſum evadit, ut repugnet ipſum denſius reddi poſſe.</item>
+               <item>XII. Motus ut vulgo ſumitur nihil aliud eſt quam actio quâ corpus aliquod ex uno loco in alium migrat; eſt enim ſucceſſiva corporis applicatio ad diverſas partes corpotum immediatè tangentium: nullus itaque datur motus in inſlanti: mo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul ſola contrariatur quies quae eſt continua applicatio ad eaſdem corporis tan<g ref="char:EOLhyphen"/>gentis partes: Cum itaque corpos allo modo ſe habeat, cum transfertur, &amp; allo cum non transfertur ſen qui<g ref="char:EOLhyphen"/>eſcit, motus &amp; quics nihil allud in eo ſont, quam duo diverſi modi: nec requiritur vacuum ut detur mo<g ref="char:EOLhyphen"/>tus, ex co enim, quod loca omnia corporibus plena ſint, ſemperque eaedem materiae partes aequalibus locis coaequentur, lequitur tantum nullum corpus moveri poſſe niſi ad modum Circuli, ita ſcilicet ut aliud ali<g ref="char:EOLhyphen"/>quod corpus ex loco quem ingreditur expellat, hocque rurſus aliud &amp; aliud, uſque ad ultimum, quod in lo<g ref="char:EOLhyphen"/>cum a primo derelictum, codem temporis. momento, quo derelictus eſt, ingredi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur.</item>
+               <item>XIII. Corpus undiquâque cinctum corpuſculis motis, ipſum aequali vi, verſus omnes partes ſimul pel<g ref="char:EOLhyphen"/>lentibus, quamdiu nulla alia cauſa occurrit, in eodem loco immotum manebit: atque ex hâc aequali ma<g ref="char:EOLhyphen"/>teriae circumſtuentis preſſurâ exſurgit corpotum durities in mutuâ juxta ſe partium quiete, &amp; tali cohaeſi<g ref="char:EOLhyphen"/>one, ut ab interfluente materiâ non interrumpantur, fed á circumfluente comprimantur.</item>
+               <item>XIV. Non male ſtatuic <hi>Carteſius</hi> tria Elementa, quae ad integritatem univerſi ſpectant, &amp; mundum aſpectabilem conſtituunt: <hi>Irimum,</hi> quod lumen emitrit, quod appellat materiam ſubtilem, ex quâ Sol &amp; Stellae fixae conſtant. <hi>Secundum,</hi> quod lumen undiquâque tranſmittit, quod Globulos ſecundi Elementi vocat, ex quibus &amp; interjectâ materiâ ſubtili, pellucidus aether conſtat. <hi>Tertium,</hi> quod lumen remittit; quia nec Lucidum, nec Luminoſum, ſed opacum eſt: ex quo noſtra Terra, Cometae &amp; Planetae componuntur. Lucidum ſine Pellucido nil niſi ignis eſt, &amp; Solem nil niſi ignem eſſe nativum ejus lumen demonſtrat; idem de Stellis fixis dicendum eſt, cum per immenſa ſpatia tam vividos emittant radios.</item>
+               <item>XV. Ignis Cooleſtis non magis divlnus, vel immutabills eſt quam noſter, nec etiam fine pabulo ful<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>it, vel ſemper idem manet; verùm fluminis inſtar perpetuò gignitur &amp; fluir, attamen pabulum illius longè <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pat á pabulo flammae ſeu ignis ſublunaris; flamma enim quia conſtat materiâ fluidâ &amp; mobili, aſſiduè hic ſupra terram á materia circumjacente diſſipatur; atque ideo eget alimento, non ut eadem quae jam exiſtit conſerve<g ref="char:EOLhyphen"/>tur, ſed tantum ut, dum ipſa extinguitur, ſemper alia in ejus locum ſubſtituatur: Solem non ita deſtruunt partes Coeli ei vicinae, quamvis nova ſemper materia in Solem ingrediatur, &amp; alia ex eo elabatur, ignis enim purus alius, in locum abeuntis, continuò ſuccedit.</item>
+               <item>XVI. Quamvis ſol fit Corpus fluidum celerrimo motu agitatum, eſt tamen denſiſſimum, utpote undi<g ref="char:EOLhyphen"/>quaque ſui plenum, nihil alienum admittens ad replenda intervalla, quia nulla ſuperſunt, ubi materia ita mobilis eſt, ut ea ſtatim occupet, &amp; ſimul ita diviſibllis vel diviſa, ut ad omnes anguſtias continuo ſe ac<g ref="char:EOLhyphen"/>commodet: ita fidus lucidum denſiſſima at non duriſſima pars coeli eſſe poſſit.</item>
+               <item>XVII. Caelum quod ſidera interjacet, &amp; ab invicem diſtinguie, non eſt durum &amp; ſecundum partes im<g ref="char:EOLhyphen"/>motum, quia fie non tranſmitteret Lumen: &amp; multo minus ſe toto pellucidum, atque ipſummet Luminis ſubjectum eſſ;et: nam luminis vis in motu fita eſt, &amp; motus iſte varius eſt, uti varij in lumine radij qui ſe<g ref="char:EOLhyphen"/>orſim agunt: alij radij ſunt homogenei, qui aequalem patiuntur refractionem, &amp; eundem colorem ſemper referunt: alij Heterogenei<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> aequallter refringibiles qui diverſos referunt colores ſecundum varios refringi<g ref="char:EOLhyphen"/>bilitatis gradus, Ingenioſiſſimè enim probat <hi>Neutonus</hi> Mathematicus <hi>cantabrigieuſis</hi> ſuis experimentis lumen conſtare ex aggregatione infinitorum propemodum radiorum, qui ſuâpte indole ſuum quiſque colorem re<g ref="char:EOLhyphen"/>ferant, retineantque ſecundum varios refringibilitatis gradûs: &amp; radios ejuſmodi dum promiſcul in aperto aëre confunduntur, nullatenus diſcerni, fed Lumen aut candorem referre (quod etiam faciunt dum omnes debitâ proportione poſt ſeparationem iterum uniuntur) in refractione vero per <hi>Priſma Cryſtallinum,</hi> ſingulos unius ab alijs alterius coloris ſecerni; &amp; hoc modo ſecretos, ſub proprio, &amp; nativo colore apparere: Ita ut corpora ſint rubra, aut flava, prout apta ſunt reflectere aut tranſmittere radios ſolummodo rubros aut flavos. Haec Doctrina facile accommodari poteſt <hi>Hypotheſi carteſiane,</hi> ſi conſideremus Globulos ſecundi Ele<g ref="char:EOLhyphen"/>menti, eſſe inaequales, &amp; preſſiones Globulorum alias alijs eſſe fortiores, &amp; inde diverſimodè refringibiles, &amp; aptas eſſe ad excitandas ſenſiones diverſorum colorum: unde patet radios qui lucidiores pingunt colores, majus momentum, qui autem obſcuriores, minus habere, hoſque magis quam illos refringi.</item>
+               <item>XVIII. Quo rectiores in terrae ſuperficiem incidunt radij Solares, cò plures corum excipit terra, &amp; ab ijs cum rectâ incidunt multo magis, quam cum obliquè incaleſcit: ex obliquâ enim incidentiâ non to<g ref="char:EOLhyphen"/>tam mo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us iſtius determinationem, ſed ſolummodo partem ſuſtinet, &amp; impetus aut momenta mobilis in aliud corpus impacti ſunt in eâdem ad ſe invicem, (caeteris paribus) proportione, in quâ ſunt ſinus an<g ref="char:EOLhyphen"/>gulorum incidentiae: multo itaque intentiorem oporter eſſe aeſtivum, quam hibernum calorem, quo enim propius ad <hi>Zenith</hi> alicujus loci Sol accedir, eo plures &amp; fortiores emittir radios.</item>
+               <item>XIX. Convenienter Phaenomenis hujus mundi aſpectabilis, intra Regionem fixarum hoc ordine Cor<g ref="char:EOLhyphen"/>pernicus Orbes Planetarum diſponir, Primus &amp; ſtellis fixis proximus eſt Saturnus, tricorporeâ formâ gaudens, vel ex tribus ſtellis compoſitus, modo triceps, aliás procerus, aliàs rotundus, mox ovalis five cum anſulis &amp; inauribus; ex obſervationibus <hi>Reitae Capucini Colonienſis</hi> ſex ſtipatur Lateronibus;ex <hi>Hugenij</hi> autem&amp; <hi>Caſſini</hi> obſervationibus ſolummodo tribus quorum intimus quatuor diebus, tredecem horis, medius ſexdecem d.re<g ref="char:EOLhyphen"/>motisſimus autem octuaginta d. circuitum ſuum circa <hi>Saturnum</hi> abſolvit, qui revolutionem ſuam triginta ſere <hi>An<g ref="char:EOLhyphen"/>nis</hi> circa Solem perficit. Secundus &amp; <hi>Saturno</hi> proximus eſt <hi>Jupiter,</hi> qui <hi>Annis</hi> ſere duodecem curſum periodicum abſolvit: quatuor habet ſatellites (quos <hi>Galilaeus</hi> primus eorum obſervator ſtellas Medicaeas appellat) quorum pri<g ref="char:EOLhyphen"/>mus ſpatio unius diei &amp; octodecem horarum: ſecundus ſpatio trium d. tredecem hor. octodecem min. tertius ſeptem d. tribus hor. quinquaginta ſeptem min. extimus denique ſexdecem d. novem hor. octo min. revolutionem ſuám circa Iovem peragit. Reitanae obſervationes Iovis auiam adhuc quinque alils ſatellitibus magnitudine ſtellis Medicaeis multo ſuperioribus auxerunt: quos tamen <hi>Gaſſendus</hi> fixas tantum ſuiſle ſuſpica<g ref="char:EOLhyphen"/>tus eſt. Tertius &amp; <hi>Jovi</hi> proximus ſequitur <hi>Mars,</hi> qui proximè intra duos <hi>Annos</hi> periodum abſolvit: in me<g ref="char:EOLhyphen"/>dio montem habet nigricantem, &amp; cingulum rotundum ad iridem maxime accedens, ſed paulo rubicundi<g ref="char:EOLhyphen"/>us, quod radicem montis illius circundat: aſſerit Reita <hi>Martem</hi> habere ſatellites quamvis ob motus ejus rapi<g ref="char:EOLhyphen"/>ditatem illos enumerare non potuit. Quarto loco ſuccedit Terra, quae triplici motu gaudet, primus eſt diurnus, qui ſpatio viginti quatuor hor. ab occaſu in ortum circa proprium axem abſolvitur efficiens diem &amp; noctem: ſecundus dicitur annuus, quo circa Solem ſpatio anni fertur, circulum eclipticam dictum de<g ref="char:EOLhyphen"/>ſcribens: Tertius denique dicitur morus inclinationis, declinationiſve &amp; eſt lpſa de flexio axis relluris vigin<g ref="char:EOLhyphen"/>ti tribus gradibus triginta min. a paralleliſmo cum axe eclipticae, unde oritur deverſitas aeſtatis &amp; hicmis in terrâ &amp; axis terrae ſemper ſibi ipſi &amp; axi mundano parallelus maner. Luna tanquam pediſſequa terram comitatur, &amp; eodem tempore quo Terra &amp; Luna circulum annuum peragrant, terra 365. vicibus circa proprium axem, &amp; luna duodecies circa terram vertitur. Dum terra cum Lunâ per Zodiaci ſigna teruntur, per ſigna oppoſita Sol decurrere videtur. Quinto loco ſequitur Venus revolutionem integram intra menſes ſeptem cum ſemiſſe ſe<g ref="char:EOLhyphen"/>cundum <hi>Gaſſendum</hi> abſolvens, varijs phaſibus apparet; conſpicitur enim &amp; corniculata &amp; rotunda non ſecus quam ſi Luna quaedam Solaris eſſet. Sextum denique &amp; Soli proximum locum Mercurius tenet circuitum omnium breviſſimum circa Solem intra menſes quam proxime tres abſolvens, rariſſime appare<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, occultatur enim ple<g ref="char:EOLhyphen"/>rumque radijs Solaribus. In medio hujus vorticis conſiſtit Sol, qui circa proprium centrum gyrat unamque revolutionem intra viginti ſeptem dies abſolvit.</item>
+               <item>XX. Ex <hi>Caſſini</hi> obſervationibus conſtat <hi>Jovem</hi> novem hor. &amp; <hi>Martem</hi> viginti tribus hor. motu quafi diurno circa ſua centra ſerri: idem etiam judicatur de omnibus Planetis primarijs, quamvis converſionis periodus nobie incognita ſit. Cum <hi>Mars, Jupiter</hi> &amp; <hi>Saturnus</hi> cum reliquis planetis, corpora eſſe admodum opaca &amp; craſſa conſpiciantur, propter has, aliaſque obſervationes, non male judicant quidam illos pro<g ref="char:EOLhyphen"/>prijs atmoſphaeris, alliſque habitandi commoditatibus eſſe praeditos. Quod ingenioſiſſime adſtruit noſtras Cl. <hi>Burnetius in ſuâ Sacrâ Telluris Theoriâ cap. 10. lib. primi ubi aſſerit praterea, ſi macularum, quas in Venere, Marte, &amp; Jove obſervarunt, tadem ſit ratio, ac in Lunâ, erunt etiam Globi Terraquti, in ſtatu praeter propter ſimili cum Lunâ &amp; Terrâ, nec à cauſis forſan diſſimilibus, &amp;c.</hi>
+               </item>
+               <item>XXI. <hi>Martem, Jovem</hi> &amp; <hi>Satur'num</hi> circa Solem ferri nemo adhuc dubitavit, ex Ipſis autem phaſibus <hi>Mercurij</hi> &amp; <hi>Veneris</hi> conſtat ipſos citra, ultraque Solem circultus ſuo<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> peragers; conſtat etiam Plane<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mo<g ref="char:EOLhyphen"/>veri, non vſam ſibi ſecando per materiam AEtheris, fed motu lpſius AEtheris circum<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehl: nem motus at<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nuus terrae in eclipticâ praecipuè determinatur à conſenſu totius materiae circa Solem gyra<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ris dire<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> autem ejus axis circa quem ſit motus diurnus, pendet praecipuè á partibus caeli, á qui<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> m<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pri<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Elementi verſus Terrae Polos fluir.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINB<g ref="char:V">Ʋ</g>RGI, <hi>Excudebat H<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
